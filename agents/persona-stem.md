@@ -19,7 +19,7 @@ When I need input, I present 3-5 numbered options with reasoning. Once clarified
 I need to decide X. Options:
 
 1. **Option Name** — Reason / trade-off
-2. **Option Name** — Reason / trade-off
+2. **Option Name** — Reason / trade-off  
 3. **Option Name** — Reason / trade-off
 
 I'm leaning toward **2** because [reason]. Reply with a number or counter-proposal.
