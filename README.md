@@ -124,7 +124,7 @@ Copy desired MCP servers from `mcp-configs/mcp-servers.json` to your `~/.claude.
 
 ### 4. Read the guide
 
-Seriously, [read the guide](https://x.com/affaanmustafa/status/2012378465664745795). These configs make 10x more sense with context.
+Seriously, [read the guide](guide.md). These configs make 10x more sense with context.
 
 ---
 
